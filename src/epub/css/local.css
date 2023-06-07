@@ -125,6 +125,11 @@ h5{
 	margin-top: 3em;
 }
 
+[epub|type~="z3998:subchapter"] header{
+	font-variant: small-caps;
+	margin-top: 3em;
+}
+
 #chapter-22 blockquote,
 #chapter-23 blockquote:last-of-type{
 	font-variant: small-caps;
