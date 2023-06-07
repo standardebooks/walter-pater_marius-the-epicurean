@@ -130,6 +130,24 @@ h5{
 	margin-top: 3em;
 }
 
+#chapter-5 blockquote p{
+	margin-top: 1em;
+	text-align: center;
+	text-indent: 0;
+}
+
+@supports(display: flex){
+	#chapter-5 blockquote{
+		display: flex;
+		gap: 2em;
+		justify-content: center;
+	}
+
+	#chapter-5 blockquote p{
+		margin: 0;
+	}
+}
+
 #chapter-22 blockquote,
 #chapter-23 blockquote:last-of-type{
 	font-variant: small-caps;
