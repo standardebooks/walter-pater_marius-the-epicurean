@@ -137,6 +137,10 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
+h5{
+	margin-top: 3em;
+}
+
 #chapter-22 blockquote,
 #chapter-23 blockquote:last-of-type{
 	font-variant: small-caps;
