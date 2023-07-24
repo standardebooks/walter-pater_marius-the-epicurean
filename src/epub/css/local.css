@@ -121,7 +121,7 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
-h5{
+hgroup h3 + p + p{
 	margin-top: 3em;
 }
 
