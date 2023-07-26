@@ -149,6 +149,6 @@ hgroup h3 + p + p{
 }
 
 #chapter-22 blockquote,
-#chapter-23 blockquote:last-of-type{
+#chapter-23 > blockquote:last-of-type{
 	font-variant: small-caps;
 }
