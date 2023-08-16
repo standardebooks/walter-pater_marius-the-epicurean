@@ -12,11 +12,15 @@
 			<reason>Matched text is a stylistic choice.</reason>
 		</ignore>
 		<ignore>
-			<code>t-042</code>
+			<code>t-051</code>
 			<reason>Matched text is a stylistic choice.</reason>
 		</ignore>
 		<ignore>
-			<code>t-051</code>
+			<code>y-019</code>
+			<reason>Matched text is a stylistic choice.</reason>
+		</ignore>
+		<ignore>
+			<code>y-021</code>
 			<reason>Matched text is a stylistic choice.</reason>
 		</ignore>
 	</file>
