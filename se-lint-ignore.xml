@@ -19,9 +19,5 @@
 			<code>y-019</code>
 			<reason>Matched text is a stylistic choice.</reason>
 		</ignore>
-		<ignore>
-			<code>y-021</code>
-			<reason>Matched text is a stylistic choice.</reason>
-		</ignore>
 	</file>
 </se-lint-ignore>
