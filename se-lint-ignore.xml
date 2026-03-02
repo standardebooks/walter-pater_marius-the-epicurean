@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-5.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>Exclamation mark is part of the title.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-24.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Matched text is a stylistic choice.</reason>
 		</ignore>
-		<ignore>
-			<code>t-051</code>
+		<ignore code="t-051">
 			<reason>Matched text is a stylistic choice.</reason>
 		</ignore>
-		<ignore>
-			<code>y-019</code>
+		<ignore code="y-019">
 			<reason>Matched text is a stylistic choice.</reason>
 		</ignore>
 	</file>
