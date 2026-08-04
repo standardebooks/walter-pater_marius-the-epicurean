@@ -56,7 +56,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2009119577</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young man in the second-century Roman empire explores philosophy and religion as he travels through life.</dc:abstract>
+		<meta property="schema:abstract">A young man in the second-century Roman empire explores philosophy and religion as he travels through life.</meta>
 		<dc:description>
 			&lt;p&gt;Marius is born in the second-century Roman Empire to a patrician family. In his youth he takes in the rituals, religion, and surroundings of his native land, and when his parents die, he’s sent away to a boarding school.&lt;/p&gt;
 			&lt;p&gt;As young Marius develops into manhood, he explores various schools of philosophy and ways of life, until he lands into the position of amanuensis to the emperor &lt;a href="https://standardebooks.org/ebooks/marcus-aurelius"&gt;Marcus Aurelius&lt;/a&gt;—who of course is not just the head of the largest empire the world had yet seen, but also a respected thinker and philosopher of Stoicism. Marius dips into Stoicism himself, until a fledgling new religion catches his attention: Christianity.&lt;/p&gt;
