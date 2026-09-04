@@ -39,10 +39,10 @@
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Bildungsromans</dc:subject>
-		<dc:subject id="subject-3">Young men -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Young men--Fiction</dc:subject>
 		<dc:subject id="subject-4">Christian fiction</dc:subject>
-		<dc:subject id="subject-5">Rome -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Christianity and other religions -- Roman -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Rome--Fiction</dc:subject>
+		<dc:subject id="subject-6">Christianity and other religions--Roman--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
